@@ -1,5 +1,5 @@
 # Node-CLI
-A sample of an interactive Node CLI using Inquirer that I built.
+A sample of an interactive Node CLI using Inquirer and Tailwind CSS that I built.
 
 ## Dependencies
 1) NodeJS
